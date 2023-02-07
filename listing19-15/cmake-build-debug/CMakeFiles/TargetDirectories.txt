@@ -1,0 +1,3 @@
+/home/ctlister/CLionProjects/cppcrashcourse/listing19-15/cmake-build-debug/CMakeFiles/listing19_15.dir
+/home/ctlister/CLionProjects/cppcrashcourse/listing19-15/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ctlister/CLionProjects/cppcrashcourse/listing19-15/cmake-build-debug/CMakeFiles/rebuild_cache.dir

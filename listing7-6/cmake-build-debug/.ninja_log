@@ -1,0 +1,5 @@
+# ninja log v5
+31	90	1675801751742289026	listing7_6	ed97dd3cc62ca0b3
+0	30	1675801751682287856	CMakeFiles/listing7_6.dir/main.cpp.o	1e9ea79c742e28bb
+0	33	1675802175515007356	CMakeFiles/listing7_6.dir/main.cpp.o	1e9ea79c742e28bb
+33	90	1675802175571008554	listing7_6	ed97dd3cc62ca0b3
